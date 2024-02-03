@@ -1,0 +1,5 @@
+The area of your trapezoid with a height of 5, and bases of 7.8 and 5.6 is 33.5.
+The surface area of your cone with a height of 5 and a radius of 6 is 260.317.
+The area of your circle with a radius of 5 is 78.5397.
+The surface area of your cone with a height of 5 and a radius of 4 is 130.729.
+The area of your parellogram with a height of 5 and a base of 5 is 25.

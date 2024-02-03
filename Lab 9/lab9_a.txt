@@ -1,0 +1,19 @@
+1. The * symbol is the dereferencing operator. It is also the indirection operator.
+
+2. The & symbol means "address of" and is called the address operator.
+
+3. The name of an array, without any brackets, acts as a pointer ti the starting address of the array.
+
+4. A pointer variable can hold the memory address of a variable.
+
+5. The statement cout << ptr; will print an address
+
+6. The statement cout << *ptr; will print 3.75
+
+7. The statement cout << &pay; will print an address
+
+8. The statement cout << pay; will print 3.75
+
+9. yes, by writing ptr = &another_pay;
+
+10. no, because ptr is a float pointer variable
