@@ -11,7 +11,7 @@ int main(){
 
     int input;
 
-    cout << endl << "Whats up bitches" << endl;
+    cout << endl << "" << endl;
     cout << cheese << " " << burger << " " << (cheese + burger) << endl;
     cout << "cheese + burger" << endl;
     cout << cheeseburger << endl;
